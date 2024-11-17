@@ -1,6 +1,6 @@
 /*
 typp - practice of typing text from the keyboard.
-Copyright (C) 2021 Kirill Rekhov <krekhov.dev@mail.ru>
+Copyright (C) 2021 Kirill Rekhov <krekhov.dev@gmail.com>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -130,7 +130,7 @@ static void help_info()
 	wattroff(tuiv.help_win, COLOR_PAIR(5) | A_UNDERLINE);
 
 	mvwaddstr(tuiv.help_win, 19, 1, NAME_VERSION);
-	mvwaddstr(tuiv.help_win, 20, 1, "Typing Practice written by Kirill Rekhov <krekhov.dev@mail.ru>");
+	mvwaddstr(tuiv.help_win, 20, 1, "Typing Practice written by Kirill Rekhov <krekhov.dev@gmail.com>");
 	FOOTER_MSGS;
 	wrefresh(tuiv.help_win);
 

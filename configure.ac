@@ -2,7 +2,7 @@
 # Process this file with autoconf to produce a configure script.
 
 AC_PREREQ([2.69])
-AC_INIT(typp, v1.0.0, krekhov.dev@mail.ru)
+AC_INIT(typp, v1.0.0, krekhov.dev@gmail.com)
 AC_CONFIG_SRCDIR([config.h.in])
 AC_CONFIG_HEADERS([config.h])
 
