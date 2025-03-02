@@ -1,9 +1,9 @@
 Contributing
 ================================================================================
 
-If you want to contribute to [typp](https://github.com/iikrllx/typp), please follow these simple rules:
+If you want to contribute to [typp](https://github.com/krekhovx/typp), please follow these simple rules:
 
-1. Make a [Fork](https://github.com/iikrllx/typp) of the project.
+1. Make a [Fork](https://github.com/krekhovx/typp) of the project.
 
 2. Clone the repository from your account with:
 

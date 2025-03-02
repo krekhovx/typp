@@ -1,8 +1,8 @@
 <div>
-<a href="https://github.com/iikrllx/typp/blob/master/CONTRIBUTING.md">
+<a href="https://github.com/krekhovx/typp/blob/master/CONTRIBUTING.md">
     <img src="https://img.shields.io/badge/Welcome-gray?label=Contributions&labelColor=blue">
 </a>
-<a href="https://github.com/iikrllx/typp/blob/master/ChangeLog">
+<a href="https://github.com/krekhovx/typp/blob/master/ChangeLog">
     <img src="https://img.shields.io/badge/v1.0.0-green?label=version&labelColor=red">
 </a>
 </div>
@@ -22,7 +22,7 @@ After typed text the result will appear:
 
 ## Installation
 ```
-$ git clone https://github.com/iikrllx/typp
+$ git clone https://github.com/krekhovx/typp
 $ cd typp && cat INSTALL
 ```
 Install required packages from list and then:
